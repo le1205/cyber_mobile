@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var Role = /*#__PURE__*/function (Role) {\n  Role[\"STUDENT\"] = \"student\";\n  Role[\"TEACHER\"] = \"teacher\";\n  return Role;\n}(Role || {});","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
